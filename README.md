@@ -30,7 +30,8 @@ Mutation Testing with Hand Written mutants.
 * IHI (Hiding Varaiable Insertion)
 * JDC (Java Supported Default Constructor Deletion)
 * AMC (Access Modifier Change)
-
+*
+    
     These Below Opertor shows Not Equivalant Result :
 
 * JTD (This Keyword Deletion)
@@ -40,3 +41,5 @@ Mutation Testing with Hand Written mutants.
 * IOD (Overriding Method Deletion)
 * IOP (Overriding Method Calling Position)
 * SDL (Statement Deletion) [Method Level Operator]
+
+
