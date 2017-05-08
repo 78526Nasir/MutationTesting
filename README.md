@@ -12,3 +12,19 @@ Mutation Testing with Hand Written mutants.
   
   1. Class level mutation operators
   2. Method level mutation operators
+
+
+# Equivelant Mutant 
+# Higher Order Mutant
+
+# Operators
+
+    These Below Operators shows Equivalant Result
+
+* PCI (Type Cast Operator Insertion)
+* PCD (Type Cast Operator Deletion)
+* PPD (Parameter Variable Declaration with Child Class type)
+* IHD (Hiding Varaiable Deletion)
+* IHI (Hiding Varaiable Insertion)
+* JDC (Java Supported Default Constructor Deletion)
+* AMC (Access Modifier Change)
