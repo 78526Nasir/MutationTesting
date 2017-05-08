@@ -21,7 +21,7 @@ Mutation Testing with Hand Written mutants.
 
 # Operators [Class Level Operators Only]
 
-    These Below Operators shows Equivalant Result
+> **These Below Operators shows Equivalant Result:**
 
 * PCI (Type Cast Operator Insertion)
 * PCD (Type Cast Operator Deletion)
@@ -31,7 +31,7 @@ Mutation Testing with Hand Written mutants.
 * JDC (Java Supported Default Constructor Deletion)
 * AMC (Access Modifier Change)
 
-> These Below Opertor shows Not Equivalant Result :
+> **These Below Opertor shows Not Equivalant Result:**
 
 * JTD (This Keyword Deletion)
 * JTI (This Keyword Insertion)
