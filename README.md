@@ -30,9 +30,8 @@ Mutation Testing with Hand Written mutants.
 * IHI (Hiding Varaiable Insertion)
 * JDC (Java Supported Default Constructor Deletion)
 * AMC (Access Modifier Change)
-*
-    
-    These Below Opertor shows Not Equivalant Result :
+
+> These Below Opertor shows Not Equivalant Result :
 
 * JTD (This Keyword Deletion)
 * JTI (This Keyword Insertion)
